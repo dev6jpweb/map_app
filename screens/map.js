@@ -38,7 +38,6 @@ export default function Map() {
     latitudeDelta: 0.0922,
     longitudeDelta: 0.0421,
   };
-  const GOOGLE_API_KEY = "AIzaSyDzw4_YFKNsmH29ElRxp58l7onsxqEIba0";
 
   const ref = useRef(null);
   useEffect(() => {
